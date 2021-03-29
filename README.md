@@ -10,7 +10,7 @@
 ## 🧐 About
 
 - 👨‍💻 My blog: http://zhiq.online
-- 📫 How to reach me: wenqiang035@qq.com
+- 📫 How to reach me: wenqiang35@qq.com
 - 🌱 Languages and Tools: 
 
     <div>
