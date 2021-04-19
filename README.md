@@ -9,7 +9,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: http://zhiq.online
+- 👨‍💻 My blog: https://notobey.gitee.io/
 - 📫 How to reach me: wenqiang35@qq.com
 - 🌱 Languages and Tools: 
 
