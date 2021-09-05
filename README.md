@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [qiang](https://github.com/Notobey)！𝗜'𝗺 𝗮 front-end developer 👨‍💻 .
+𝗜'𝗺 [qiang](https://github.com/iven35)！𝗜'𝗺 𝗮 front-end developer 👨‍💻 .
 
 <!--[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inotobey@gmail.com)](mailto:inotobey@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Notobey)](https://github.com/Notobey)-->
@@ -9,8 +9,8 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://notobey.gitee.io/
-- 📫 How to reach me: wenqiang35@qq.com
+- 👨‍💻 My blog: https://iven35.gitee.io/
+- 📫 How to reach me: itaco@qq.com
 - 🌱 Languages and Tools: 
 
     <div>
