@@ -9,7 +9,6 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://iven35.gitee.io/
 - 📫 How to reach me: itaco@qq.com
 - 🌱 Languages and Tools: 
 
