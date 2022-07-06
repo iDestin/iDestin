@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！
 
-𝗜'𝗺 [qiang](https://github.com/iDestin)！a frontend developer 👨‍💻
+𝗜'𝗺 [qiang](https://github.com/iDestin)！Working on learning the frontend 👨‍💻
 
 <!--[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiang035@icloud.com)](mailto:qiang035@icloud.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iDestin)](https://github.com/iDestin)-->
