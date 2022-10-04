@@ -1,14 +1,14 @@
 # 𝗛𝗲𝗹𝗹𝗼！
 
-𝗜'𝗺 [qiang](https://github.com/iDestin)！Working on learning the frontend 👨‍💻
+i'm qiang！Working on learning the frontend 👨‍💻
 
 <!--[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qiang035@icloud.com)](mailto:qiang035@icloud.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iDestin)](https://github.com/iDestin)-->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=iDestin&show_icons=true&hide_border=true"> -->
 
-- 📫 How to reach me: qiang035@icloud.com
-- 🌱 Languages and Tools: 
+📫 How to reach me: qiang035@icloud.com
+🌱 Languages and Tools: 
 
     <div>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
