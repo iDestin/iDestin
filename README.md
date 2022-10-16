@@ -7,8 +7,6 @@ i'm qiang！Working on learning the frontend 👨‍💻
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=iDestin&show_icons=true&hide_border=true"> -->
 
-📫 How to reach me: qiang035@icloud.com
-<br/>
 🌱 Languages and Tools: 
 
 <div>
