@@ -2,7 +2,7 @@
 
 i'm qiang！a front-end developer from China. Currently I am keep learning the frontend 👨‍💻.
 
-💪 Contributor
+💪 Contributor:
 
 * [element-plus](https://github.com/element-plus/element-plus)
 * [docs-cn](https://github.com/slidevjs/docs-cn)
