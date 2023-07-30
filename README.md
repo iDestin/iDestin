@@ -8,7 +8,6 @@ i'm qiang！a front-end developer from China. Currently I am keep learning the f
 * [slidevjs/docs-cn](https://github.com/slidevjs/docs-cn)
 * [rollup-docs-cn](https://github.com/rollup/rollup-docs-cn)
 * [nanoid](https://github.com/ai/nanoid)
-* [tilg](https://github.com/shuding/tilg)
 
 and more...
 
